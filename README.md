@@ -66,7 +66,7 @@ Record your results:
 Run:
 
 ```bash
-python predict_batch.py --input data/batch_inputs.csv --output predictions.csv
+python predict_batch.py --input batch_inputs.csv --output predictions.csv
 ```
 
 ### Q3:
