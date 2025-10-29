@@ -86,6 +86,7 @@ Should it use **online** or **batch** prediction?
 
 ### LEB2 Submission
 
-A PDF file with complete answers for all questions.
-Output predictions.csv file
+A PDF file with complete answers for all questions and screenshots of terminal outputs
+
+Output predictions.csv file from batch prediction
 
